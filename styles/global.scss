@@ -1,0 +1,23 @@
+@import '_variables';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $primary-font;
+}
+
+body {
+    height: 100vh;
+    background: $theme-color-background;
+}
+
+@media (max-width: 62.5rem) {
+    html {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+}

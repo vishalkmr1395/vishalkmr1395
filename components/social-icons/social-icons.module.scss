@@ -1,0 +1,23 @@
+@import './../../styles/_variables';
+
+.socialIcons {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+
+        li {
+            font-size: 2rem;
+            margin: 0.625rem;
+
+            a {
+                color: $theme-color-white;
+            }
+
+            &:first-child {
+                margin-left: 0
+            }
+        }
+    }
+}

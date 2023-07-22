@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="66" height="18" x="67" y="17" fill="#197090"/>
+    <rect width="59" height="18" x="27" y="110" fill="#197090"/>
+    <rect width="59" height="18" x="27" y="159" fill="#197090"/>
+    <rect width="59" height="14" x="116" y="125" fill="#197090"/>
+    <rect width="37" height="36" x="82" y="60" fill="#197090" transform="rotate(45 100.5 78)"/>
+    <line x1="100" x2="100" y1="35" y2="55" stroke="#197090" stroke-width="4"/>
+    <polyline stroke="#197090" stroke-width="4" points="123.5 78 145 78 145 127"/>
+    <polyline stroke="#197090" stroke-width="4" points="56 78 77.5 78 77.5 160" transform="matrix(-1 0 0 1 133.5 0)"/>
+  </g>
+</svg>

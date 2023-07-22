@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#197090" points="100.5 10 178.009 55.25 178.009 145.75 100.5 191 22.991 145.75 22.991 55.25"/>
+    <polygon fill="#197090" points="178.009 55.25 178.009 145.75 100.5 191 22.991 145.75 178 55.5"/>
+    <circle cx="100.5" cy="100.5" r="32.5" stroke="#FFF" stroke-width="15"/>
+    <polygon fill="#197090" points="178.009 55.25 178.009 145.75 178 145.5 100.5 100.61 178 55.5"/>
+  </g>
+</svg>

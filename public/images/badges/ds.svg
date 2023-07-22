@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd" transform="translate(26 21)">
+    <circle cx="71" cy="9" r="9" fill="#197090"/>
+    <circle cx="51" cy="39" r="9" fill="#197090"/>
+    <circle cx="93" cy="39" r="9" fill="#197090"/>
+    <circle cx="29" cy="76" r="9" fill="#197090"/>
+    <circle cx="9" cy="106" r="9" fill="#197090"/>
+    <circle cx="9" cy="149" r="9" fill="#197090"/>
+    <circle cx="52" cy="149" r="9" fill="#197090"/>
+    <circle cx="93.5" cy="149" r="9" fill="#197090"/>
+    <circle cx="51" cy="106" r="9" fill="#197090"/>
+    <circle cx="117.5" cy="73" r="9" fill="#197090"/>
+    <circle cx="93" cy="106" r="9" fill="#197090"/>
+    <circle cx="139.5" cy="103" r="9" fill="#197090"/>
+    <line x1="9" x2="9" y1="147.5" y2="112" stroke="#197090" stroke-width="3"/>
+    <line x1="7.75" x2="25.25" y1="106" y2="80" stroke="#197090" stroke-width="3"/>
+    <line x1="97.75" x2="115.25" y1="99" y2="73" stroke="#197090" stroke-width="3"/>
+    <line x1="32" x2="47.25" y1="71.5" y2="46" stroke="#197090" stroke-width="3"/>
+    <line x1="53.875" x2="69.125" y1="36.75" y2="11.25" stroke="#197090" stroke-width="3"/>
+    <line x1="48.688" x2="32.813" y1="102.625" y2="80.375" stroke="#197090" stroke-width="3"/>
+    <line x1="137.188" x2="121.313" y1="99.625" y2="77.375" stroke="#197090" stroke-width="3"/>
+    <line x1="112.688" x2="96.813" y1="65.625" y2="43.375" stroke="#197090" stroke-width="3"/>
+    <line x1="91.688" x2="75.813" y1="36.625" y2="14.375" stroke="#197090" stroke-width="3"/>
+    <line x1="51.5" x2="51.5" y1="147.5" y2="112" stroke="#197090" stroke-width="3"/>
+    <line x1="93.5" x2="93.5" y1="142.5" y2="107" stroke="#197090" stroke-width="3"/>
+  </g>
+</svg>

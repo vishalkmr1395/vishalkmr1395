@@ -1,0 +1,78 @@
+@import './../../styles/variables';
+
+.container {
+    padding-bottom: 2rem;
+
+    &.open {
+        border-bottom: 1px solid #DDD;
+        padding-bottom: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    header {
+        display: flex;
+
+
+        .logo {
+            width: 4rem;
+            height: 4rem;
+            margin-right: 1rem;
+            background: #EEE;
+
+            img {
+                width: 100%;
+            }
+
+            @media screen and (max-width: $mobile-breakpoint) {
+                width: 3rem;
+                height: 3rem;
+            }
+        }
+
+        .details {
+            flex: 1;
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+
+            .timePeriod {
+                font-size: 0.825rem;
+                margin-bottom: 0.5rem;
+            }
+
+            .toggle {
+                font-size: 0.875rem;
+                cursor: pointer;
+                color: $theme-color-ocean-blue;
+
+                @media screen and (max-width: $tablet-breakpoint) {
+                    margin-top: 0.3125rem;
+                }
+            }
+
+            @media screen and (max-width: $tablet-breakpoint) {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+
+
+    }
+
+    .project {
+        margin-left: 5rem;
+
+        @media screen and (max-width: $tablet-breakpoint) {
+            margin-left: 0;
+        }
+    }
+}
+
+.organization {
+    margin: 0.125rem 0;
+    font-weight: 400;
+
+    a {
+        text-decoration: none
+    }
+}

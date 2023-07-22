@@ -1,0 +1,14 @@
+@import "./../../styles/variables";
+
+.text {
+    font: {
+        weight: 700;
+        size: 1rem;
+    }
+
+    margin-bottom: 0.3125rem;
+
+    @media screen and (max-width: $mobile-breakpoint) {
+        font-size: 1rem;
+    }
+}

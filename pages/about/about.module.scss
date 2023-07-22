@@ -1,0 +1,37 @@
+@import './../../styles/_variables';
+
+.hello {
+
+    font: {
+        size: 2rem;
+        weight: 100;
+    }
+}
+
+.info {
+    line-height: 1.6rem;
+    margin-top: 1.5rem;
+    font-size: 0.9375rem;
+
+    a {
+        text-decoration: none;
+    }
+
+    span {
+        &.highlight {
+            font: {
+                weight: 700;
+            }
+        }
+    }
+}
+
+.codingProfile {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+
+    a {
+        text-decoration: none;
+    }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="none" fill-rule="evenodd">
+    <line x1="105.5" x2="154.5" y1="77.5" y2="53.5" fill="#197090" stroke="#197090" stroke-width="4"/>
+    <line x1="107.5" x2="136.5" y1="91.5" y2="97.5" fill="#197090" stroke="#197090" stroke-width="4"/>
+    <line x1="75.25" x2="55.5" y1="103.25" y2="135.5" fill="#197090" stroke="#197090" stroke-width="4"/>
+    <line x1="39.813" x2="157.438" y1="33.188" y2="161.563" fill="#197090" stroke="#197090" stroke-width="4"/>
+    <circle cx="32.5" cy="25.5" r="10.5" fill="#197090" stroke="#197090"/>
+    <circle cx="87.5" cy="86.5" r="20.5" fill="#197090" stroke="#197090"/>
+    <circle cx="48" cy="147" r="14" fill="#197090" stroke="#197090"/>
+    <circle cx="167" cy="171" r="14" fill="#197090" stroke="#197090"/>
+    <circle cx="167" cy="47" r="14" fill="#197090" stroke="#197090"/>
+    <circle cx="143" cy="99" r="7" fill="#197090" stroke="#197090"/>
+  </g>
+</svg>
